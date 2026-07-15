@@ -132,7 +132,7 @@ const chineseSidebar = [
 ]
 
 export default defineConfig({
-  base: '/Docs/',
+  base: '/docs/',
   lastUpdated: true,
 
   locales: {
